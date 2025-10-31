@@ -1,0 +1,22 @@
+[
+  {
+    "id": "p1",
+    "name": "Acme Running Shoes",
+    "slug": "acme-running-shoes",
+    "description": "Comfortable running shoes for daily jogs.",
+    "price": 59.99,
+    "category": "Footwear",
+    "inventory": 42,
+    "lastUpdated": "2025-10-01T10:00:00.000Z"
+  },
+  {
+    "id": "p2",
+    "name": "Aurora T-Shirt",
+    "slug": "aurora-tshirt",
+    "description": "Soft cotton tee with modern fit.",
+    "price": 19.5,
+    "category": "Apparel",
+    "inventory": 8,
+    "lastUpdated": "2025-10-20T09:30:00.000Z"
+  }
+]
